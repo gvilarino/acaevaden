@@ -1,0 +1,28 @@
+{
+  "name": "acaevaden",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "build": "nwb build-web-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-web-app --reload",
+    "test": "nwb test",
+    "test:coverage": "nwb test --coverage",
+    "test:watch": "nwb test --server"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nwb": "0.18.x"
+  },
+  "author": "gvilarino",
+  "bugs": {
+    "url": "https://github.com/gvilarino/acaevaden/issues"
+  },
+  "homepage": "https://github.com/gvilarino/acaevaden#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvilarino/acaevaden.git"
+  }
+}
